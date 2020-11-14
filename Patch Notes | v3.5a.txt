@@ -31,14 +31,14 @@ Removed Elements
 - Halloween Textures
 	- Blocks
 		• Log Scary Faces
-		• Bat Cake
+		• Bat Cake**
 		• 'Carved' Furnace
 		• Skull Grass/Wither Skull Roots
 		• 'Carved' Melon
 		• Spiderweb Leaves
 		
 	- Entities
-		• Elytras
+		• Bat Elytras
 		• Black Cat Eyes
 		• Chest Monster
 	
@@ -47,14 +47,14 @@ Removed Elements
 		• Halloween Main Menu Title
 		• Halloween Main Menu Subtitle 
 		• Halloween Main Menu Background
-		•  Apple Hunger Icons
+		• Apple Hunger Icons**
 		
 	- Items
 		• Elytra
-		• Pumpkin Buckets
+		• Pumpkin Buckets**
 		• Pumpkin Head Slot Icon
-		• Golden Apples
-		• Totem Of Undying
+		• Golden Apples**
+		• Totem Of Undying**
 	
 	- Paintings
 		• Creebet [Orange Creeper]
@@ -97,8 +97,8 @@ NEW FEATURES in v3.5a
 
 - New Textures
 	- Blocks
-		• Toilet [Composter]
-		• Toilet Paper [Grindstone]
+		• Toilet [Composter]**
+		• Toilet Paper [Grindstone]**
 		
 	- Entities
 		- Horse
@@ -106,7 +106,7 @@ NEW FEATURES in v3.5a
 		• White Shulker alternate texture*
 	
 	- GUI
-		• Bank Loading Screen
+		• New Loading Screen
 		• Main Menu Title
 		• Main Menu Background
 		
@@ -117,4 +117,4 @@ NEW FEATURES in v3.5a
 		• Wither Soldier Eyes*
 		
 		
-*All contrassigned items are made for a Datapack
+*Marked items are made for a Datapack.  |  **Marked items may undergo changes upon feedback.  |  ***-.  |  ****-.  |  *****-.  |
