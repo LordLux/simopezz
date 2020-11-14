@@ -1,0 +1,117 @@
+----------------------------------------------------
+Version Alpha 3.5a Resourcepack [v3.5a]
+----------------------------------------------------
+
+Removed Elements
+
+- Halloween Music
+	• music/creative/creative1
+	• music/creative/creative2
+	• music/creative/creative3
+	• music/creative/creative4
+	• music/creative/creative5
+	
+	• music/end/end
+	
+	• music/nether/nether1
+	• music/nether/nether2
+	• music/nether/nether3
+	• music/nether/nether4
+	• music/nether/crimson_forest/chrysopoeia
+	• music/nether/nether_wastes/rubedo
+	• music/nether/soulsand_valley/so_below
+	
+	• music/calm1
+	• music/calm2
+	• music/calm3
+	• music/hal1
+	• music/hal2
+	• music/hal3
+	
+- Halloween Textures
+	- Blocks
+		• Log Scary Faces
+		• Bat Cake
+		• 'Carved' Furnace
+		• Skull Grass/Wither Skull Roots
+		• 'Carved' Melon
+		• Spiderweb Leaves
+		
+	- Entities
+		• Elytras
+		• Black Cat Eyes
+		• Chest Monster
+	
+	- GUI
+		• Halloween Loading Screen
+		• Halloween Main Menu Title
+		• Halloween Main Menu Subtitle 
+		• Halloween Main Menu Background
+		•  Apple Hunger Icons
+		
+	- Items
+		• Elytra
+		• Pumpkin Buckets
+		• Pumpkin Head Slot Icon
+		• Golden Apples
+		• Totem Of Undying
+	
+	- Paintings
+		• Creebet [Orange Creeper]
+		• Wanderer [Mirror]
+		
+	- Texts
+		• Halloween Splashes
+
+
+NEW FEATURES in v3.5a
+	
+- Music
+	- Infinity Train
+		• a_little_extra_flair_dance_partners_grace_simon_s_theme
+		• alliance_with_a_cat
+		• baroque_theme
+		• bridge_battle_simon_s_fate
+		• childhood_friends_simon_traps_grace
+		• coldshift
+		• concrete_and_steel
+		• cracked_reflection
+		• dawn_of_a_new_era
+		• good_luck_grace
+		• gravity_boots
+		• have_you_ever_considered_that_you_ve_been_wrong
+		• it_helps_to_say_goodbye
+		• it_s_ok_to_cry
+		• looking_black_is_blinding
+		• me_too_the_engine
+		• my_number_has_been_going_down
+		• the_new_apex
+		• trapped
+		• unknown_darkness
+		• wheel_the_void
+		• you_re_no_person
+	
+	-Others
+		• Megalovania
+		• Never Gonna Give You Up
+
+- New Textures
+	- Blocks
+		• Toilet [Composter]
+		• Toilet Paper [Grindstone]
+		
+	- Entities
+		- Horse
+			• Wither Skeleton Horse*
+		• White Shulker alternate texture*
+	
+	- GUI
+		• Bank Loading Screen
+		• Main Menu Title
+		• Main Menu Background
+		
+	- Items
+		• Admin Cards [3]
+		• Wither Bone
+		• Wither Bone Meal
+		• Wither Soldier Eyes
