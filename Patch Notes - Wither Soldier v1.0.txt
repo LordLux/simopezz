@@ -1,0 +1,31 @@
+----------------------------------------------------
+Wither Soldier Version 1.0
+----------------------------------------------------
+
+FEATURES in WITHER SOLDIER V1.0
+
+- Mobs
+	- Wither Soldier
+		• Wither Skeleton Soldier
+		• Wither Skeleton Horse
+
+- Items
+	• Wither Soldier Skull
+	• Wither Bone
+	• Wither Bone Meal
+	
+- Functionalities
+	• Wither Soldiers will spawn in the Soulsand Valley
+	
+	• Wither Skeleton Soldiers and Wither Skeleton Horses will drop Wither Bones
+	• Wither Skeleton Soldiers will drop with a very low chance their skull
+	
+	• Wither Bones can be converted into Wither Bone Meal by throwing them on top of a Crafting Table (one item at a time)
+	• Wither Bone Meal can be placed on Grass Blocks to kill the actual vegetation in a small area
+	• Wither Bone Meal can be used as normal Bones for any other used
+	
+	• Wither Soldier Skulls will give the ability to see covered Ancient Debris in a 5-Block radius around the Player**
+	• Wither Soldier Skulls will also give Wither II and Blindness to hopefully prevent abuse**
+	
+
+**Marked items may undergo changes upon feedback.  |  ***-.  |  ****-.  |  *****-.  |
